@@ -1,4 +1,4 @@
-Excited to share: ATM Transactions Data Analysis Using Power_BI
+ATM Transactions Data Analysis Using Power_BI
 
 Data Collection
 
