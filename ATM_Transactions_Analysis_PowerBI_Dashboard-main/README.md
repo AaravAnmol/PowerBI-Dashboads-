@@ -26,7 +26,7 @@ Insights Derived
 3.	Transaction Trends: Monitoring the trends in financial and non-financial transactions can help in predicting future transaction volumes and preparing accordingly.
 4.	Performance Metrics: Key performance metrics such as average uptime and gross profit percentage provide a quick snapshot of the overall efficiency and profitability of ATM operations.
 
-![ATM_Dashboard](https://github.com/user-attachments/assets/3bc794e1-4c44-444b-bffe-6c94c7650e32)
+![ATM_Dashboard](https://github.com/AaravAnmol/Dashboards-Images/blob/main/ATM%20Transaction%20%26%20Cost%20Analysis%20Dashboard.png)
 
 Cost Analysis (ATM Cost and Maintenance)
 
@@ -108,7 +108,7 @@ This line chart shows the trend of total transactions over time, specifically hi
 
 •	November 2024
 
-![ATM_Range,Detail_Anaysis_Dashboard](https://github.com/user-attachments/assets/e151f3fa-38e6-416b-a0a3-f502474305ec)
+![ATM_Range,Detail_Anaysis_Dashboard](https://github.com/AaravAnmol/Dashboards-Images/blob/main/ATM%20Transaction%20%26%20Cost%20Analysis%20Dashboard.png)
 
 Range Analysis (Current and Previous Month by ATM ID)
 
