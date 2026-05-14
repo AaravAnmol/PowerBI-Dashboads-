@@ -71,10 +71,8 @@ Excel → Power BI
 ## 📂 Project Structure
 
 - **📁Data/**
-  - superstore_dataset.xlsx
 
-- **📊Dashboard/**
-  - amazon_sales_dashboard.pbix
+- Global Superstore.pbix
 
 - **🖼Images/**
   - dashboard.png
