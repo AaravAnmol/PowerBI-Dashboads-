@@ -70,20 +70,19 @@ Excel → Power BI
 
 ## 📂 Project Structure
 
-- **📁Data/**
+- global_superstore.xlsx
 
 - Global Superstore.pbix
 
-- **🖼Images/**
-  - dashboard.png
+- dashboard.png
 
-- **README.md**
+- **Readme.md**
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
